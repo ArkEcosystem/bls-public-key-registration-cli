@@ -19,3 +19,7 @@ Edit configuration file `config.json`. Set BLS public key and validators passphr
 ```bash
 yarn start
 ```
+
+## License
+
+[GNU General Public License v3.0](LICENSE) © [ARK Ecosystem](http://arkscic.com/)
