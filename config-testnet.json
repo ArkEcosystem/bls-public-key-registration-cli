@@ -1,0 +1,7 @@
+{
+  "network": "testnet",
+  "peer": "http://127.0.0.1:4003",
+  "oldBlsPublicKey": "",
+  "newBlsPublicKey": "b2519f3fd7c398bcae97f8af87e0249e1d21c23def81c3690815b74d40eb37603e2e555ed927cdcfd85fbd418ac2585d",
+  "passphrase": "clay harbor enemy utility margin pretty hub comic piece aerobic umbrella acquire"
+}
