@@ -1,0 +1,14 @@
+{
+  "name": "bls-public-key-tx-sender",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sebastijankuzner <sebastijan@ark.io>",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@arkecosystem/crypto": "3.10.0-rc.0",
+    "@arkecosystem/core-utils": "2.7.25"
+  }
+}
