@@ -3,5 +3,6 @@
   "peer": "https://dapi.ark.io",
   "oldBlsPublicKey": "",
   "newBlsPublicKey": "",
-  "passphrase": ""
+  "passphrase": "",
+  "secondPassphrase": ""
 }
