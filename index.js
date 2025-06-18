@@ -63,6 +63,7 @@ const buildTransaction = async (nonce) => {
 
 const main = async () => {
   Managers.configManager.setFromPreset(network);
+  Managers.configManager.setHeight(21670000);
 
   console.log('New BLS Public Key: ', newBlsPublicKey);
   console.log('Old BLS Public Key: ', oldBlsPublicKey.length > 0 ? oldBlsPublicKey : 'None');
